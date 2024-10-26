@@ -15,7 +15,7 @@ Feel free to connect with me and check out my work below!
 
 ### 🎥 Elevator Pitch Video
 <a href="https://vimeo.com/1022291484" target="_blank">
-  <img src="https://img.youtube.com/vi/1022291484/0.jpg" alt="Watch my Elevator Pitch" width="600" height="338">
+  <img src="https://drive.google.com/uc?export=view&id=1LYeoySckgpZi2DD1fSogSdXuWQGt0Kz1" alt="Watch my Elevator Pitch" width="600" height="338">
 </a>
 
 Looking forward to connecting! 😊
